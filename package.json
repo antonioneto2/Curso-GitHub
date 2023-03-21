@@ -4,7 +4,7 @@
   "description": "",
   "main": "crud.js",
   "scripts": {
-    "dev": "",
+    "dev": "nodemon ./crud",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
